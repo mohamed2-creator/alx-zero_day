@@ -1,1 +1,5 @@
-git pull https://github.com/mohamed2-creator/alx-zero_day.git
+Removing up_to_date
+Merge made by the 'recursive' strategy.
+ up_to_date | 1 -
+ 1 file changed, 1 deletion(-)
+ delete mode 100644 up_to_date
